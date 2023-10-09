@@ -1,3 +1,3 @@
 # py_oop
 
-exercises from masters
+practice exercises from masters
